@@ -2,6 +2,7 @@ stock-backend/target/
 stock-backend/.mvn/wrapper/maven-wrapper.jar
 stock-backend/!**/src/main/**/target/
 stock-backend/!**/src/test/**/target/
+stock-backend/.env
 
 ### STS ###
 stock-backend/.apt_generated
