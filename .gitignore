@@ -1,17 +1,17 @@
-stock-backend/target/
-stock-backend/.mvn/wrapper/maven-wrapper.jar
-stock-backend/!**/src/main/**/target/
-stock-backend/!**/src/test/**/target/
-stock-backend/.env
+trading-backend/target/
+trading-backend/.mvn/wrapper/maven-wrapper.jar
+trading-backend/!**/src/main/**/target/
+trading-backend/!**/src/test/**/target/
+trading-backend/.env
 
 ### STS ###
-stock-backend/.apt_generated
-stock-backend/.classpath
-stock-backend/.factorypath
-stock-backend/.project
-stock-backend/.settings
-stock-backend/.springBeans
-stock-backend/.sts4-cache
+trading-backend/.apt_generated
+trading-backend/.classpath
+trading-backend/.factorypath
+trading-backend/.project
+trading-backend/.settings
+trading-backend/.springBeans
+trading-backend/.sts4-cache
 
 ### IntelliJ IDEA ###
 .idea
@@ -20,14 +20,14 @@ stock-backend/.sts4-cache
 *.ipr
 
 ### NetBeans ###
-stock-backend/nbproject/private/
-stock-backend/nbbuild/
-stock-backend/dist/
-stock-backend/nbdist/
-stock-backend/.nb-gradle/
-stock-backend/build/
-stock-backend/!**/src/main/**/build/
-stock-backend/!**/src/test/**/build/
+trading-backend/nbproject/private/
+trading-backend/nbbuild/
+trading-backend/dist/
+trading-backend/nbdist/
+trading-backend/.nb-gradle/
+trading-backend/build/
+trading-backend/!**/src/main/**/build/
+trading-backend/!**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
